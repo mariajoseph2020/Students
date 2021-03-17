@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>faculty</title>
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -34,27 +34,30 @@
 </nav>
     <div class="container">
     <div class="row">
-    <div class="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+    <div class="col">
     <table class="table">
     <tr>
-        <td>Name</td>
+        <td>Facultyname</td>
         <td><input type="text" class="form-control"></td>
     </tr>
     <tr>
-        <td>Rollno</td>
+        <td>Department</td>
         <td><input type="text" class="form-control"></td>
     </tr>
     <tr>
-        <td>Admission No</td>
+        <td>Address</td>
         <td><input type="text" class="form-control"></td>
     </tr>
     <tr>
-        <td>College</td>
+        <td>Phoneno</td>
         <td><input type="text" class="form-control"></td>
     </tr>
     <tr>
-        <td></td>
-        <td><button class="btn btn-danger">submit</button></td>
+        <td>Educational qualification</td>
+        <td><input type="text" class="form-control"></td>
+    </tr>
+    <tr>
+    <td><button class="button btn btn-danger">submit</button></td>
     </tr>
     </table>
     </div>
